@@ -152,3 +152,11 @@ KPI & Business Analysis
 Excel Power BI Tableau
        ↓
 Dashboard & Insights
+
+---
+
+## Conclusion
+
+This project demonstrates an end-to-end data analytics workflow using SQL, Excel, Power BI, and Tableau. The analysis of bank loan and credit/debit card datasets helped identify key business KPIs, transaction trends, loan performance, and risk-related patterns.
+
+The project showcases practical skills in data cleaning, SQL analysis, KPI development, dashboard creation, and business-oriented data visualization.
