@@ -102,16 +102,37 @@ The Credit/Debit Card dataset was analyzed to understand transaction behavior, b
 
 ## SQL Analysis
 
-SQL was used for data preparation and KPI analysis.
+SQL was used to clean, analyze, and extract key business metrics from both datasets.
 
-The SQL scripts include:
+### Bank Loan Analysis
+- Calculated key loan performance KPIs.
+- Analyzed loan collections and interest.
+- Evaluated default and delinquent loans.
+- Analyzed loan distribution by branch, state, grade, product group, and other categories.
+- Created KPI queries to support dashboard analysis.
 
-- Data loading
-- Data preparation
-- KPI calculations
-- Business performance analysis
-- Loan analysis
-- Credit/Debit transaction analysis
+### Credit/Debit Card Analysis
+- Calculated total credit and debit transaction amounts.
+- Analyzed transaction volumes and trends.
+- Compared credit vs. debit transactions.
+- Analyzed transaction activity by bank and branch.
+- Identified high-risk and suspicious transaction patterns.
+
+---
+
+## Key Insights
+
+### Bank Loan Analytics
+- Identified high-performing branches based on loan revenue.
+- Analyzed loan distribution across states, grades, products, and customer categories.
+- Evaluated loan defaults and delinquency to understand portfolio risk.
+- Analyzed loan disbursement trends over time.
+
+### Credit/Debit Card Analytics
+- Compared credit and debit transaction activity.
+- Analyzed transaction trends across banks and branches.
+- Evaluated transaction methods and account activity.
+- Identified high-risk and suspicious transaction patterns.
 
 ---
 
