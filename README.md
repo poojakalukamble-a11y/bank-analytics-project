@@ -138,17 +138,20 @@ SQL was used to clean, analyze, and extract key business metrics from both datas
 
 ## Project Workflow
 
-```mermaid
-flowchart TD
-    A[Raw Banking Data] --> B[Data Cleaning & Preparation]
-    B --> C[SQL Analysis]
-    C --> D[KPI & Business Analysis]
-    D --> E[Excel]
-    D --> F[Power BI]
-    D --> G[Tableau]
-    E --> H[Dashboard & Insights]
-    F --> H
-    G --> H
+```text
+Raw Banking Data
+       ↓
+Data Cleaning & Preparation
+       ↓
+      SQL
+       ↓
+KPI & Business Analysis
+       ↓
+ ┌─────┼─────┐
+ ↓     ↓     ↓
+Excel Power BI Tableau
+       ↓
+Dashboard & Insights
 ```
 
 ---
