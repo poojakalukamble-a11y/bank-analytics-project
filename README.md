@@ -46,15 +46,15 @@ The Bank Loan dataset was analyzed to understand loan portfolio performance, cus
 
 #### Excel Dashboard
 
-![Bank Loan Excel Dashboard](images/loan_excel.png)
+![Bank Loan Excel Dashboard](loan_excel.png)
 
 #### Power BI Dashboard
 
-![Bank Loan Power BI Dashboard](images/Loan_Bi.png)
+![Bank Loan Power BI Dashboard](Loan_Bi.png)
 
 #### Tableau Dashboard
 
-![Bank Loan Tableau Dashboard](images/Loan_tableau.png)
+![Bank Loan Tableau Dashboard](Loan_tableau.png)
 
 ---
 
@@ -88,15 +88,15 @@ The Credit/Debit Card dataset was analyzed to understand transaction behavior, b
 
 #### Excel Dashboard
 
-![Credit/Debit Card Excel Dashboard](images/cards_excel.png)
+![Credit/Debit Card Excel Dashboard](cards_excel.png)
 
 #### Power BI Dashboard
 
-![Credit/Debit Card Power BI Dashboard](images/cards_Bi.png)
+![Credit/Debit Card Power BI Dashboard](cards_Bi.png)
 
 #### Tableau Dashboard
 
-![Credit/Debit Card Tableau Dashboard](images/cards_tableau.png)
+![Credit/Debit Card Tableau Dashboard](cards_tableau.png)
 
 ---
 
