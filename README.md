@@ -143,7 +143,7 @@ Raw Banking Data
        ↓
 Data Cleaning & Preparation
        ↓
-      SQL
+SQL
        ↓
 KPI & Business Analysis
        ↓
@@ -152,6 +152,7 @@ KPI & Business Analysis
 Excel Power BI Tableau
        ↓
 Dashboard & Insights
+```
 
 ---
 
