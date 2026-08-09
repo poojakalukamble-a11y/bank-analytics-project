@@ -1,26 +1,133 @@
 # Bank Analytics Project
 
 ## Overview
-Bank Analytics project focused on analyzing loan and credit/debit card data to identify business trends, performance metrics, and key KPIs.
 
-## Projects
+This project analyzes two banking datasets to identify business trends, customer insights, transaction patterns, and key performance indicators (KPIs).
 
-### 1. Bank Loan Analytics
-Analyzed loan data to evaluate loan performance, collections, interest, defaults, delinquencies, and other key business KPIs.
+The project covers:
 
-**Tools:** SQL | Excel | Power BI | Tableau
+1. **Bank Loan Analytics**
+2. **Credit/Debit Card Analytics**
 
-### 2. Credit-Debit Card Analytics
-Analyzed credit and debit card data to identify transaction trends, customer insights, and key performance indicators.
+The analysis was performed using **Excel, SQL, Power BI, and Tableau**.
 
-**Tools:** SQL | Excel | Power BI | Tableau
+---
 
-## Key Work Performed
-- Cleaned and prepared data using SQL
-- Created KPI queries for business analysis
-- Developed interactive dashboards in Power BI and Tableau
-- Created dashboards and analysis in Excel
-- Analyzed business performance using key metrics and trends
+## 1. Bank Loan Analytics
 
-## Tools & Skills
-**SQL | Advanced Excel | Power BI | Tableau | Data Analysis | KPI Analysis | Dashboard Development**
+The Bank Loan dataset was analyzed to understand loan portfolio performance, customer behavior, loan distribution, collections, interest, defaults, and delinquencies.
+
+### Key Analysis
+
+- Total Loan Amount Funded
+- Total Loans
+- Total Collection
+- Total Interest
+- Default Loan Count
+- Delinquent Client Count
+- Delinquent Loan Rate
+- Default Loan Rate
+- Branch-wise Revenue
+- State-wise Loan Distribution
+- Religion-wise Loan Distribution
+- Product Group-wise Loan Distribution
+- Grade-wise Loan Analysis
+- Loan Disbursement Trend
+- Loan Status Analysis
+
+### Tools Used
+
+- Excel
+- SQL
+- Power BI
+- Tableau
+
+### Bank Loan Dashboard Screenshots
+
+#### Excel Dashboard
+
+![Bank Loan Excel Dashboard](images/loan_excel.png)
+
+#### Power BI Dashboard
+
+![Bank Loan Power BI Dashboard](images/Loan_Bi.png)
+
+#### Tableau Dashboard
+
+![Bank Loan Tableau Dashboard](images/Loan_tableau.png)
+
+---
+
+## 2. Credit/Debit Card Analytics
+
+The Credit/Debit Card dataset was analyzed to understand transaction behavior, banking activity, transaction trends, branch performance, and high-risk transactions.
+
+### Key Analysis
+
+- Total Credit Amount
+- Total Debit Amount
+- Credit/Debit Ratio
+- Net Transaction Amount
+- Account Activity Ratio
+- Suspicious Transaction Frequency
+- Transaction Method Distribution
+- Transaction Volume by Bank
+- Branch-wise Transaction Amount
+- Monthly Transaction Trend
+- High-Risk Transaction Analysis
+- Transaction Growth Analysis
+
+### Tools Used
+
+- Excel
+- SQL
+- Power BI
+- Tableau
+
+### Credit/Debit Card Dashboard Screenshots
+
+#### Excel Dashboard
+
+![Credit/Debit Card Excel Dashboard](images/cards_excel.png)
+
+#### Power BI Dashboard
+
+![Credit/Debit Card Power BI Dashboard](images/cards_Bi.png)
+
+#### Tableau Dashboard
+
+![Credit/Debit Card Tableau Dashboard](images/cards_tableau.png)
+
+---
+
+## SQL Analysis
+
+SQL was used for data preparation and KPI analysis.
+
+The SQL scripts include:
+
+- Data loading
+- Data preparation
+- KPI calculations
+- Business performance analysis
+- Loan analysis
+- Credit/Debit transaction analysis
+
+---
+
+## Project Workflow
+
+```text
+Raw Banking Data
+       ↓
+Data Cleaning & Preparation
+       ↓
+      SQL
+       ↓
+KPI & Business Analysis
+       ↓
+ ┌─────┼─────┐
+ ↓     ↓     ↓
+Excel Power BI Tableau
+       ↓
+Dashboard & Insights
